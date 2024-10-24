@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345787310196",
+    "project_id": "anik-database",
+    "storage_bucket": "anik-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345787310196:android:5cfebfd811a964edccf121",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8JjFyh5zSq8ooU4aQ-7dwFRCPvM9IZXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
